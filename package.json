@@ -1,0 +1,23 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Layout con carrito de compras",
+  "main": "index.js",
+  "engines": {
+    "node": "10.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acxel Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "browsersList": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
